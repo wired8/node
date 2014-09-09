@@ -1,15 +1,13 @@
 =======
 Node Resources
 =========
-
 ![Node Resources](http://teknosains.com/assets/images/nodejs.png)
-
 A list of Node/Javascript development resources.
 
 ### Control Flow
-[vasync](https://www.npmjs.org/package/vasync)
-[Async](https://github.com/caolan/async) 
-[Q](https://github.com/kriskowal/q)
+* [vasync](https://www.npmjs.org/package/vasync)
+* [Async](https://github.com/caolan/async) 
+* [Q](https://github.com/kriskowal/q)
 
 ### Testing
 * [Mocha](http://visionmedia.github.io/mocha/)
@@ -68,6 +66,15 @@ A list of Node/Javascript development resources.
 ### Logging
 * [winston](https://github.com/flatiron/winston)
 * [bunyan](https://github.com/trentm/node-bunyan)
+
+### Boilerplate
+* [skeleton](https://github.com/dstroot/skeleton)
+* [hackathon](https://github.com/sahat/hackathon-starter)
+
+### Tutorial/Resource
+* [jsrecipes](http://jsrecipes.org/)
+* [jsdaily](http://dailyjs.com)
+* [jsdb](http://www.jsdb.io/)
 
 
 
