@@ -1,4 +1,8 @@
-# node resources
+=======
+Node Resources
+=========
+
+![Node Resources](http://teknosains.com/assets/images/nodejs.png)
 
 A list of Node/Javascript development resources.
 
@@ -60,4 +64,10 @@ A list of Node/Javascript development resources.
 ### Utility
 * [underscore](http://underscorejs.org/)
 * [lodash](http://lodash.com/)
+
+### Logging
+* [winston](https://github.com/flatiron/winston)
+* [bunyan](https://github.com/trentm/node-bunyan)
+
+
 
