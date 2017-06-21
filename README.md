@@ -10,7 +10,7 @@ A list of Node/Javascript development resources.
 * [Q](https://github.com/kriskowal/q)
 
 ### Testing
-* [Mocha](http://visionmedia.github.io/mocha/)
+* [Mocha](http://mochajs.org/)
 * [Should](https://github.com/visionmedia/should.js/)
 * [Sinon](http://sinonjs.org/)
 * [Nock]()
